@@ -1,2 +1,3 @@
 # hello-world
 Here we go...
+I want to enjoy life.  I would appreciate any helpful advice one might have.
